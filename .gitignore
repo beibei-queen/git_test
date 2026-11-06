@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+*.pth
+*.tar
+data/
+dataset/
+# ignore the data and dataset
